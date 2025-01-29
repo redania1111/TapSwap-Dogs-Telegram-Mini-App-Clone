@@ -1,5 +1,6 @@
 
-![ana sayfa](https://github.com/user-attachments/assets/4635a493-cfec-49c0-9559-6bdc3c266de3)
+![anasayfaa](https://github.com/user-attachments/assets/258e4e16-ceda-45d6-a55b-9a23c1dd8460)
+
 
 
 ![admin panel](https://github.com/user-attachments/assets/41b40fb6-fbee-4247-bfa4-d722a97909ea)
