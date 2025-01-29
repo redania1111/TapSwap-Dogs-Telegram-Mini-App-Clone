@@ -1,3 +1,6 @@
+
+![ana sayfa](https://github.com/user-attachments/assets/4635a493-cfec-49c0-9559-6bdc3c266de3)
+
 🚀 RedaniaBot - Telegram Exclusive Mini App Project
 (Inspired by Dogs & Cats Bot)
 
